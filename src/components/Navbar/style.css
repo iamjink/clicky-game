@@ -5,7 +5,7 @@
 	background-color: rgb(255, 66, 66);
 	color: white;
 	position: fixed;
-	box-shadow: 10px 10px 8px 10px #141414;
+	box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22)
 }
 
 ul {
