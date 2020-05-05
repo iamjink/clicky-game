@@ -3,10 +3,10 @@ import './style.css';
 
 function Navbar(props) {
 	return (
-		<nav class="navbar">
+		<nav className="navbar">
 			<ul>
 				<li>
-					<a class="navbar-brand" href="/">
+					<a className="navbar-brand" href="/">
 						Clicky Game
 					</a>
 				</li>
