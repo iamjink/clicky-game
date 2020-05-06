@@ -1,5 +1,7 @@
 ## Clicky Game
 
+### Deployment: https://mystifying-mahavira-6f9fbe.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
